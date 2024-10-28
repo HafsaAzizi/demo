@@ -72,3 +72,12 @@ Accédez ensuite à http://localhost:8080 dans un navigateur pour interagir avec
 ** Supprimer un utilisateur : Utilisez le lien "Delete" pour supprimer un utilisateur.
 
 ** Lister les utilisateurs : La page d'accueil affiche tous les utilisateurs avec des options de gestion.
+
+
+##Video demo
+
+
+
+https://github.com/user-attachments/assets/f7a39066-747d-4f1e-bb1a-439d5e0afa79
+
+
